@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"DocBlockr",
+		"Emmet",
+		"HexViewer",
+		"JSLint",
+		"MarkdownEditing",
+		"Package Control",
+		"Pylinter",
+		"Python PEP8 Autoformat",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"Theme - Soda",
+		"TrailingSpaces",
+		"VintageEx"
+	]
+}
